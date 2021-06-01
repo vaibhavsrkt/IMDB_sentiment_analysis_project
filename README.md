@@ -1,1 +1,1 @@
-# IMDB_sentiment_analysis_project
+This git repository is for CDAC project of Sentiment Analysis on IMDB Movie reviews.
